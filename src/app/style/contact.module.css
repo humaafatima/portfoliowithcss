@@ -1,0 +1,47 @@
+.container {
+    background-color: #1F2937; 
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading {
+    color: white;
+    font-family: serif;
+    font-size: 1.5rem; 
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.headinghr {
+    border: 2px solid #3B82F6; 
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem; 
+}
+
+.title {
+    color: white;
+    font-size: 1.25rem; 
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem 0; 
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; 
+    border: 2px solid #3B82F6; 
+}
