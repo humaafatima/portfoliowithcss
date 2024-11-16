@@ -25,8 +25,8 @@ export default function Home() {
           <Image
             src={profilepic}
             alt="profile"
-            width="400"
-            height="400"
+            width="500"
+            height="500"
             className={Style.profileimage}
           />
         </div>
