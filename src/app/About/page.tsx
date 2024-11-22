@@ -1,5 +1,4 @@
-import Link from "next/link"
-import Navbar from "@/app/components/page"
+import Navbar from "@/components/Navbar"
 import Style from "@/app/style/about.module.css"
 
 export default function About() {

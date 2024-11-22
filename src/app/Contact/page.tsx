@@ -1,11 +1,10 @@
-import Link from "next/link"
-import Navbar from "@/app/components/page"
+import Navbar from "@/components/Navbar"
 import Image from "next/image"
-import twitter from "@/app/assets/twitter.png"
-import linkedinicon from "@/app/assets/linkedinicon.svg"
-import discord from "@/app/assets/discord.png"
-import gmail from "@/app/assets/gmail.svg"
-import github from "@/app/assets/github.svg"
+import twitter from "@/assets/twitter.png"
+import linkedinicon from "@/assets/linkedinicon.svg"
+import discord from "@/assets/discord.png"
+import gmail from "@/assets/gmail.svg"
+import github from "@/assets/github.svg"
 import Style from "@/app/style/contact.module.css"
 
 export default function Contact() {

@@ -1,8 +1,7 @@
 "use client"
-import Link from "next/link"
 import Image from "next/image"
-import profilepic from "@/app/assets/profilepic.jpg"
-import Navbar from "@/app/components/page"
+import profilepic from "@/assets/profilepic.jpg"
+import Navbar from "@/components/Navbar"
 import Style from "@/app/style/home.module.css"
 export default function Home() {
   return (

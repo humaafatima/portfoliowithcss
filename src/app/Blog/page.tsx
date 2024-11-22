@@ -1,9 +1,8 @@
 "use client"
-import Link from "next/link"
 import Image from "next/image"
-import callcenter from "@/app/assets/callcenter.jpg"
-import vegetation from "@/app/assets/vegetation.jpg"
-import Navbar from "@/app/components/page"
+import callcenter from "@/assets/callcenter.jpg"
+import vegetation from "@/assets/vegetation.jpg"
+import Navbar from "@/components/Navbar"
 import Style from "@/app/style/blog.module.css"
 
 export default function blog() {
